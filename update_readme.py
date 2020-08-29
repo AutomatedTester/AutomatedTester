@@ -33,7 +33,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**entry)
+        ["* [{title}]({url})".format(**entry)
          for entry in entries]
     )
     readme_contents = readme.open().read()

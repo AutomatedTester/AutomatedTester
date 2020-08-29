@@ -10,10 +10,10 @@
 
 ### Blog Posts
 <!-- blog starts -->
-* [How Selenium Works: Episode 7 - Driver Executables](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-7-driver-executables/) - Wed, 29 Apr 2020 00:00:00 +0000
-* [How Selenium Works: Episode 6 - sendKeys](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-6-typing/) -
-* [How Selenium Works: Episode 5 - clicking](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-5-clicking/) - Wed, 25 Mar 2020 00:00:00 +0000
-* [How Selenium Works: Episode 4 - Finding Elements](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-4-finding-elements/) -
-* [How Selenium Works: Episode 3 - isDisplayed](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-3-isdiplayed/) -
+* [How Selenium Works: Episode 7 - Driver Executables](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-7-driver-executables/)
+* [How Selenium Works: Episode 6 - sendKeys](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-6-typing/)
+* [How Selenium Works: Episode 5 - clicking](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-5-clicking/)
+* [How Selenium Works: Episode 4 - Finding Elements](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-4-finding-elements/)
+* [How Selenium Works: Episode 3 - isDisplayed](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-3-isdiplayed/)
 <!-- blog ends -->
 
