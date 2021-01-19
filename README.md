@@ -12,10 +12,10 @@ Chairperson for the W3C Browser Testing and Tools Working Group. Editor of the W
 
 ### Recent Blog Posts
 <!-- blog starts -->
+* [I am on Twitch](https://www.theautomatedtester.co.uk/blog/2021/i-am-on-twitch/)
 * [Collaboration over combat](https://www.theautomatedtester.co.uk/blog/2020/collaboration-over-combat/)
 * [Browser Testing and Tools WG Meeting @ TPAC 2020](https://www.theautomatedtester.co.uk/blog/2020/webdriver-tpac-meeting-2020/)
 * [How Selenium Works: Episode 7 - Driver Executables](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-7-driver-executables/)
 * [How Selenium Works: Episode 6 - sendKeys](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-6-typing/)
-* [How Selenium Works: Episode 5 - clicking](https://www.theautomatedtester.co.uk/blog/2020/how-selenium-works-5-clicking/)
 <!-- blog ends -->
 
