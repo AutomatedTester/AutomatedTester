@@ -9,6 +9,7 @@ Chairperson for the W3C Browser Testing and Tools Working Group. Editor of the W
 - 📫 How to reach me:
   -  Twitter: [@AutomatedTester](https://twitter.com/automatedTester)
   -  LinkedIn: [@David Burns](https://www.linkedin.com/in/theautomatedtester/)
+  - Twitch: [@AutomatedTester](https://twitch.tv/automatedtester)
 
 ### Recent Blog Posts
 <!-- blog starts -->
