@@ -10,7 +10,7 @@ Chairperson for the W3C Browser Testing and Tools Working Group. Editor of the W
   -  Twitter: [@AutomatedTester](https://twitter.com/automatedTester)
   -  LinkedIn: [@David Burns](https://www.linkedin.com/in/theautomatedtester/)
   - Twitch: [@AutomatedTester](https://twitch.tv/automatedtester)
-  - <a href="https://www.buymeacoffee.com/automatedtester" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  - <a href="https://www.buymeacoffee.com/automatedtester" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 147px !important;" ></a>
 
 ### Recent Blog Posts
 <!-- blog starts -->
